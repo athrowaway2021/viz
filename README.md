@@ -1,4 +1,4 @@
-# comix
+# viz
 A Python tool to download and descramble manga from VIZ for backing up
 
 ## Disclaimer
