@@ -1,7 +1,6 @@
 from pathlib import Path
 
 import os
-from typing import cast
 import requests
 import sys
 
